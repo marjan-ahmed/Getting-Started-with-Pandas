@@ -5,6 +5,7 @@ python -m venv myenv
 ```
 in your cmd of powershell
 
+
 ----
 
 **Activate the environment, (Windows in cmd)**:
@@ -19,7 +20,7 @@ myenv\Scripts\activate.ps1
 ```
 source myenv/bin/activate
 ```
-**Deactivate the environment:**
+**To deactivating the environment:**
 ```
 deactivate
 ```
