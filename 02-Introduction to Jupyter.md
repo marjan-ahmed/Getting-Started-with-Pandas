@@ -3,7 +3,7 @@ In this page briefly introduce the main components of the Jupyter Notebook envir
 
 Contents
 
-#  [> What is the Jupyter Notebook?](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#what-is-the-jupyter-notebook)
+#  [What is the Jupyter Notebook?](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#what-is-the-jupyter-notebook)
 [Notebook document](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document)
 [Jupyter Notebook App]
 [kernel](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#kernel)
@@ -29,4 +29,10 @@ When you open a Notebook document, the associated kernel is automatically launch
 
 [See also Close a notebook: kernel shut down.](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html#kernel-shutdown)
 
+# 1.4. Notebook Dashboard
+The Notebook Dashboard is the component which is shown first when you launch [Jupyter Notebook App](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app). The Notebook Dashboard is mainly used to open [notebook documents](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document), and to manage the running [kernels](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#kernel) (visualize and shutdown).
+
+The Notebook Dashboard has other features similar to a file manager, namely navigating folders and renaming/deleting files.
+
+References: from the official docs [Opening Notebooks.](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html#opening-notebooks)
 References: from the official docs [Opening Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html#opening-notebooks) and [Decoupled two-process model.](https://ipython.org/ipython-doc/stable/overview.html#ipythonzmq)
