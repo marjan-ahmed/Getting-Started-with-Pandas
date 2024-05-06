@@ -1,12 +1,7 @@
-After you have done installing Pandas install numpy:
-```
-pip install numpy
-```
-
 # Installation & Setup for jupyter:
-  Install it after installing numpy package from above command
+  Install it after installing pandas and numpy packages
 
-  ```
+```
 pip install jupyter
 ```
 to run jupyter in your browser, write:
